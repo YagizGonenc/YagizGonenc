@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">Hi, my name is Yagiz Gonenc. I'm 18 years old. I'm from Turkey and I living in Poland right now. I want to be a Software Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
